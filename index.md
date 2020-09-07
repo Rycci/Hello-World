@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Historia de los Sistemas Operativos
+
+## Diseño y Arquitectura de los Sistemas Operativos
+### Definición de Kernel
+### Tipos de Kernel
+### Sistema de Archivos
+
+## Procesos
+### Comunicacion entre procesos
+### Lamadas a sistema y funciones de libreria
 
 You can use the [editor on GitHub](https://github.com/Rycci/Hello-World/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
